@@ -25,7 +25,7 @@ body {
     color: white;
     padding: 30px 40px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    backdrop-filter: blur(120px);
+    backdrop-filter: blur(100px);
 }
 
 .container h1 {
