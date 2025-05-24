@@ -93,6 +93,7 @@ body {
     border-radius: 40px;
     cursor: pointer;
     font-size: 16px;
-    color: #fcf5f5;
+    color: #e0dfdf;
+    font-weight: 600;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
