@@ -24,7 +24,7 @@ body {
     border-radius: 10px;
     color: white;
     padding: 30px 40px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .container h1 {
@@ -91,5 +91,8 @@ body {
     background-color: red;
     border: none;
     border-radius: 40px;
-    cursor: pointer
+    cursor: pointer;
+    font-size: 16px;
+    color: #fcf5f5;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
